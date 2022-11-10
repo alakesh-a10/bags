@@ -1,0 +1,1 @@
+web: gunicorn bags.wsgi --log-file-
